@@ -1,0 +1,31 @@
+
+
+
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+.b1{
+    padding: 50px;
+    border-top: 34px;
+    margin-top:250px;
+    color:rgb(145, 238, 179);
+    background-color: blue;
+}
+#b1{
+    background-color: rgb(146, 190, 175);
+    color: rgb(14, 7, 7);
+    border-radius: 15px;
+}
+#b2{
+    background-color: rgb(141, 205, 227);
+    color: rgb(79, 14, 183);
+    border-radius: 15px;
+}
+#b3{
+    background-color: rgb(187, 78, 187);
+    color: rgb(0, 0, 206);
+    border-radius: 15px;
+}
