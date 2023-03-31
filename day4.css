@@ -1,0 +1,30 @@
+
+.day4{
+    width: 500px;
+    margin-left:33%;
+    margin-top: 15%;
+    align-items: center;
+    display: grid;
+    place-items: center;
+    background-color: rgb(235, 122, 186);
+}
+#button{
+    display: grid;
+    place-items: center;
+    background-color: rgb(121, 112, 201);
+    border-top: 20px;
+    width: 15%;
+
+    
+}
+p{
+    text-decoration: underline;
+    font-display:initial;
+    align-items: center;
+  font-family: cursive;
+  font-weight: 800;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
